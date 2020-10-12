@@ -1,0 +1,15 @@
+.gallery{
+    margin:10px 50px;
+}
+.gallery img{
+    transition: 1s;
+    padding: 15 px;
+    width: 200px;
+        
+}
+
+.gallery img{
+
+    transform: scale (1.1);
+
+}
